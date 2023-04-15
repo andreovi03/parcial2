@@ -1,0 +1,8 @@
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: greenyellow;
+    color: black;
+    gap: 5px;
+    border-radius: 10px;
+}
